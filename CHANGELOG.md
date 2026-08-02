@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-08-02)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`156aaa1`](https://github.com/stdlib-js/stdlib/commit/156aaa1c98135aae4cfcb5161d5d1fcec0dd8c6a) - **bench:** update benchmarks to use decimal literals [(#13859)](https://github.com/stdlib-js/stdlib/pull/13859) _(by Philipp Burckhardt)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`a11c3ee`](https://github.com/stdlib-js/stdlib/commit/a11c3ee5ae67e719b024612187f7c0444bc811f0) - **fix:** add missing `API_SUFFIX` and fix types _(by Athan Reines)_
 -   [`11fe978`](https://github.com/stdlib-js/stdlib/commit/11fe9784619f60b1e31355e2ab06ad55ea90c312) - **chore:** minor clean-up [(#11694)](https://github.com/stdlib-js/stdlib/pull/11694) _(by Philipp Burckhardt, Athan Reines)_
